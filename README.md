@@ -44,6 +44,7 @@ Este projeto é constituído por duas partes: Backend e Frontend que se encontra
 
 # <a name="_toc8181"></a>Diagrama de Classes 
 De seguida apresenta-se o diagrama de classes do nosso projeto. 
+
 <img src="DiagramaClasses.png">
 
 
