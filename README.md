@@ -1,4 +1,3 @@
-﻿**	 	 
 # <a name="_toc8179"></a>Introdução 
 No âmbito da unidade curricular de Paradigmas de Programação, foi proposto a criação de uma aplicação informática que permitisse gerir o processo de vacinação covid-19.  
 
@@ -57,10 +56,3 @@ A documentação gerada (javadoc) relativa às classes que foram criadas poderã
 
 # <a name="_toc8183"></a>Conclusão  
 Com a elaboração deste projeto de gestão do processo de vacinação foi me possibilitada a aplicação dos conhecimentos que adquirimos no decorrer do semestre e melhorar as minhas habilidades em programação JAVA. 
-
-
-
-
-5 
-
-
