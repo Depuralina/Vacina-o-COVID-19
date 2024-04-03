@@ -1,56 +1,53 @@
-# <a name="_toc8179"></a>Introdução 
-No âmbito da unidade curricular de Paradigmas de Programação, foi proposto a criação de uma aplicação informática que permitisse gerir o processo de vacinação covid-19.  
+# <a name="_toc8179"></a>Introduction 
+As part of the Programming Paradigms course, I was asked to create a computer application to manage the COVID-19 vaccination process.
 
-Para a concretização deste trabalho apliquei o que aprendi durante o semestre e utilizei, também, os recursos fornecidos pelos docentes e ainda documentação API e Google.
+To carry out this work, I applied what I had learned during the semester and also used the resources provided by the teachers as well as API and Google documentation.
 
-Este projeto é constituído por duas partes: Backend e Frontend que se encontram numa outra pasta deste mesmo ficheiro.
+This project consists of two parts: Backend and Frontend, which can be found in another folder in this file.
 
+# <a name="_toc8180"></a>Functionalities 
 
-# <a name="_toc8180"></a>Funcionalidades 
-
-|Funcionalidades |Implementada |Não Implementada |
+|Functionalities |Implemented |Not Implemented |
 | :-: | - | :-: |
-|Administrador: | | |
-|Autenticar-se como administrador. |X | |
-|Criar/apagar e editar centros de vacinação. |X | |
-|Adicionar/apagar/alterar/listar utilizadores Gestores. |X | |
-|Associar gestores a centros de vacinação. |X | |
-|Listar informação sobre centros de vacinação. |X | |
-|Alocar quantidades de vacinas a centros de vacinação. |X  | |
-|Número de vacinas administradas e efeitos secundários registados na população vacina. | |X  |
-|Gestor: | | |
-|Autenticar-se como gestor. |X | |
-|Listar informação sobre o seu centro de vacinação. |X | |
-|Criar ou alterar o número de postos de atendimento. |X | |
-|Consultar marcações do centro de vacinação por dia do calendário. | |X |
-|Cancelar marcações. | |X |
-|Limitar o número de marcações por dia. | |X |
-|Monitorizar stock de vacinas do seu centro. |X | |
-|Consultar listagens de utentes associados ao centro de vacinação. |X | |
-|Consultar listagens de utentes com marcações para o dia seguinte. | |X |
-|Registar vacinação de utente, tipo de vacina atribuída e efeitos secundários observados no locar, se necessário. | |X |
-|Fazer marcação da próxima administração de dose, se for o caso. | |X |
-|Consultar listagem de utente que faltaram à marcação. | |X |
-|Obter estatísticas sobre o progresso da vacinação e efeitos secundários registados no seu centro. | |X |
-|Utente: | | |
-|Criar conta com o seu número SNS, morada, localidade, data de nascimento, contacto telefónico e email. |X | |
-|Autenticar-se como utente. |X | |
-|Registar informação sobre doenças prévias. |X | |
-|Consultar o centro de vacinação atribuído. |X | |
-|Escolher centro de vacinação, caso não tenha nenhum atribuído. |X | |
-|Fazer marcação para a 1º vacinação, por dia e slot de 15 minutos. | |X |
-|Consultar a data da sua próxima marcação. | |X |
+|Administrator: | | |
+|Authenticate as an administrator. |X | |
+|Create/delete and edit vaccination centers. |X | |
+|Add/delete/modify/list manager users. |X | |
+|Associate managers with vaccination centers. |X | |
+|List information about vaccination centers. |X | |
+|Allocate vaccine quantities to vaccination centers. |X | |
+|Number of vaccines administered and side effects recorded in the vaccinated population. | |X |
+|Manager: | | |
+|Authenticate as a manager. |X | |
+|List information about their vaccination center. |X | |
+|Create or modify the number of vaccination stations. |X | |
+|Check appointments at the vaccination center by calendar day. | |X |
+|Cancel appointments. | |X |
+|Limit the number of appointments per day. | |X |
+|Monitor vaccine stock at their center. |X | |
+|Check lists of users associated with the vaccination center. |X | |
+|Check lists of users with appointments for the next day. | |X |
+|Record user vaccination, type of vaccine assigned, and observed side effects on-site, if necessary. | |X |
+|Schedule the next dose administration, if applicable. | |X |
+|Check list of users who missed their appointment. | |X |
+|Get statistics on vaccination progress and side effects recorded at their center. | |X |
+|User: | | |
+|Create an account with their National Health Service (NHS) number, address, locality, date of birth, phone contact, and email. |X | |
+|Authenticate as a user. |X | |
+|Register information about previous illnesses. |X | |
+|Check the assigned vaccination center. |X | |
+|Choose a vaccination center if not assigned any. |X | |
+|Schedule the 1st vaccination appointment, per day and 15-minute slot. | |X |
+|Check the date of their next appointment. | |X |
 
-
-# <a name="_toc8181"></a>Diagrama de Classes 
-De seguida apresenta-se o diagrama de classes do nosso projeto. 
+# <a name="_toc8181"></a>Class Diagram 
+Below is the class diagram of our project.
 
 <img src="DiagramaClasses.png">
 
+# <a name="_toc8182"></a>Javadoc Documentation 
+The generated documentation (javadoc) related to the classes that were created can be found in the following directory: "dist\javadoc\index.html".
 
-# <a name="_toc8182"></a>Documentação Javadoc 
-A documentação gerada (javadoc) relativa às classes que foram criadas poderão ser encontradas na seguinte diretoria: “dist\javadoc\index.html”. 
+# <a name="_toc8183"></a>Conclusion  
+With the development of this vaccination process management project, I was able to apply the knowledge I acquired during the semester and improve my programming skills in JAVA.
 
-
-# <a name="_toc8183"></a>Conclusão  
-Com a elaboração deste projeto de gestão do processo de vacinação foi me possibilitada a aplicação dos conhecimentos que adquirimos no decorrer do semestre e melhorar as minhas habilidades em programação JAVA. 
