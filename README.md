@@ -1,11 +1,9 @@
-﻿**	 	 
 # <a name="_toc8179"></a>Introdução 
 No âmbito da unidade curricular de Paradigmas de Programação, foi proposto a criação de uma aplicação informática que permitisse gerir o processo de vacinação covid-19.  
 
 Para a concretização deste trabalho apliquei o que aprendi durante o semestre e utilizei, também, os recursos fornecidos pelos docentes e ainda documentação API e Google.
 
 Este projeto é constituído por duas partes: Backend e Frontend que se encontram numa outra pasta deste mesmo ficheiro.
-
 
 
 # <a name="_toc8180"></a>Funcionalidades 
@@ -42,25 +40,16 @@ Este projeto é constituído por duas partes: Backend e Frontend que se encontra
 |Escolher centro de vacinação, caso não tenha nenhum atribuído. |X | |
 |Fazer marcação para a 1º vacinação, por dia e slot de 15 minutos. | |X |
 |Consultar a data da sua próxima marcação. | |X |
-**
-
-**
 
 
 # <a name="_toc8181"></a>Diagrama de Classes 
 De seguida apresenta-se o diagrama de classes do nosso projeto. 
+<img src="DiagramaClasses.png">
 
 
 # <a name="_toc8182"></a>Documentação Javadoc 
 A documentação gerada (javadoc) relativa às classes que foram criadas poderão ser encontradas na seguinte diretoria: “dist\javadoc\index.html”. 
-**
+
 
 # <a name="_toc8183"></a>Conclusão  
 Com a elaboração deste projeto de gestão do processo de vacinação foi me possibilitada a aplicação dos conhecimentos que adquirimos no decorrer do semestre e melhorar as minhas habilidades em programação JAVA. 
-
-
-
-
-5 
-
-
