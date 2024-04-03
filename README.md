@@ -6,7 +6,6 @@ Para a concretização deste trabalho apliquei o que aprendi durante o semestre 
 Este projeto é constituído por duas partes: Backend e Frontend que se encontram numa outra pasta deste mesmo ficheiro.
 
 
-
 # <a name="_toc8180"></a>Funcionalidades 
 
 |Funcionalidades |Implementada |Não Implementada |
@@ -45,10 +44,12 @@ Este projeto é constituído por duas partes: Backend e Frontend que se encontra
 
 # <a name="_toc8181"></a>Diagrama de Classes 
 De seguida apresenta-se o diagrama de classes do nosso projeto. 
+<img src="DiagramaClasses.png">
 
 
 # <a name="_toc8182"></a>Documentação Javadoc 
 A documentação gerada (javadoc) relativa às classes que foram criadas poderão ser encontradas na seguinte diretoria: “dist\javadoc\index.html”. 
+
 
 # <a name="_toc8183"></a>Conclusão  
 Com a elaboração deste projeto de gestão do processo de vacinação foi me possibilitada a aplicação dos conhecimentos que adquirimos no decorrer do semestre e melhorar as minhas habilidades em programação JAVA. 
